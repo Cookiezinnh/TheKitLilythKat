@@ -1,0 +1,14 @@
+{
+  "name": "dcckiapp",
+  "version": "1.0.0",
+  "description": "Aplicativo Test-DEV // Feito por @Cookiezinnh, tal modificação/uso deve ser feita somente ao dono da Aplicação ou com a devida permissão. // Aplicação feita com o intuito de Aprendizado/Uso inferiores. // Tal App devera permanecer desligado a todo instante que não for utilizado. // Inicialização apenas por localhost, não sera permitido o uso de Servers para o hosteamento de tal app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@Cookiezinnh",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2"
+  }
+}
